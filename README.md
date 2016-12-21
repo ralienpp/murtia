@@ -6,5 +6,5 @@ This is designed for systems where group policies prevent you from editing scree
 
 # How to run it
 
-`javac Murtia.java`
-`java Murtia`
+* `javac Murtia.java`
+* `java Murtia`
