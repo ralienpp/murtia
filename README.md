@@ -8,3 +8,11 @@ This is designed for systems where group policies prevent you from editing scree
 
 * `javac Murtia.java`
 * `java Murtia`
+
+
+# How to produce a jar file
+
+* `javac Murtia.java`
+* `jar cfe release.jar Murtia Murtia.class`
+
+Then run the jar with `java -jar release.jar` 
